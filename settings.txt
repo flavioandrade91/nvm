@@ -1,0 +1,4 @@
+root: C:\Users\flavio.lessa\nvm
+path: C:\Users\flavio.lessa\nvm\nodejs
+arch: 64
+proxy: none
