@@ -19,10 +19,10 @@ A arquitetura das pastas deve ser isolada na raiz do seu usuário para evitar co
 
 Plaintext
 
-`root: C:\Users\flavio.lessa\nvm
-path: C:\Users\flavio.lessa\nvm\nodejs
-arch: 64
-proxy: none`
+`root: C:\Users\flavio.lessa\nvm`
+`path: C:\Users\flavio.lessa\nvm\nodejs`
+`arch: 64`
+`proxy: none`
 
 ---
 
